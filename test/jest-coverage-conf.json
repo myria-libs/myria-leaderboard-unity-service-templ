@@ -1,0 +1,13 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "rootDir": "..",
+  "testEnvironment": "node",
+  "setupFiles": ["./test/common/boilerplate.polyfill.ts"],
+  "testRegex": ".spec.ts$",
+  "collectCoverage": true,
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "coverageDirectory": "test/coverage",
+  "collectCoverageFrom": ["**/*.(t|j)s"]
+}
