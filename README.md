@@ -67,11 +67,8 @@ Example :
 
 1. Endpoint for generate RSA Key pairs.
 
-![generate-rsa-key-pairs-step-1](/img/unity-sdk/Generate_key_part_1.png)
 
 2. Generate RSA Keypair though local endpoint.
-
-![generate-rsa-key-pairs-step-2](/img/unity-sdk/Generate_key_part_2.png)
 
 
 ## Step 7. Update the Environment with RSA Keys
